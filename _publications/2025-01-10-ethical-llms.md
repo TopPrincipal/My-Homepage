@@ -9,6 +9,5 @@ venue: 'Advances in Neural Information Processing Systems 37 (NeurIPS 2024)'
 slidesurl: 'http://yourwebsite.com/files/slides-ethical-llms.pdf'
 paperurl: 'http://yourwebsite.com/files/paper-ethical-llms.pdf'
 bibtexurl: 'http://yourwebsite.com/files/bibtex-ethical-llms.bib'
-codeurl: 'https://github.com/TopPrincipal/optimizing-llms-contextual-reasoning'
 citation: 'John Smith, et al. (2025). "Ethical Considerations in Deploying LLMs for Real-World Applications." <i>Advances in Neural Information Processing Systems 37 (NeurIPS 2024)</i>.'
 ---
